@@ -33,4 +33,6 @@ figcaption {
 }
 
 /* Descendent selector */ 
-#logo 
+#logo h1 {
+  
+}
