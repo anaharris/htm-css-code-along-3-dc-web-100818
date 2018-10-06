@@ -29,5 +29,7 @@ figcaption {
 /* ID selectors */
 
 #logo {
-  background: aqua
+  background: aqua;
 }
+
+/* Descendent selector */ 
